@@ -1,0 +1,6 @@
+d:\users\g557958\documents\visual studio 2013\Projects\HelloProgramme\HelloProgramme\bin\Debug\HelloProgramme.exe.config
+d:\users\g557958\documents\visual studio 2013\Projects\HelloProgramme\HelloProgramme\bin\Debug\HelloProgramme.exe
+d:\users\g557958\documents\visual studio 2013\Projects\HelloProgramme\HelloProgramme\bin\Debug\HelloProgramme.pdb
+d:\users\g557958\documents\visual studio 2013\Projects\HelloProgramme\HelloProgramme\obj\Debug\HelloProgramme.csprojResolveAssemblyReference.cache
+d:\users\g557958\documents\visual studio 2013\Projects\HelloProgramme\HelloProgramme\obj\Debug\HelloProgramme.exe
+d:\users\g557958\documents\visual studio 2013\Projects\HelloProgramme\HelloProgramme\obj\Debug\HelloProgramme.pdb
